@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite">
+  <test thread-count="5" name="SmokeTest">
+    <classes>
+      <class name="day50.LoginDemo"/>
+      <class name="day50.LoginDemo2"/>
+      <class name="day50.FirstTestNG"/>
+      <class name="day50.SwagDemo"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+</suite> <!-- SmokeSuite -->
