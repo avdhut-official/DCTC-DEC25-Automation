@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="day50.SwagDemo">
+      <class name="day51.AssertsDemo2">
         <methods>
-          <include name="openApplication"/>
+          <include name="testNotEquals"/>
         </methods>
-      </class> <!-- day50.SwagDemo -->
+      </class> <!-- day51.AssertsDemo2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

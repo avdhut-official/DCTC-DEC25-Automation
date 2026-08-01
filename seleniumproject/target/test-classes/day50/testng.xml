@@ -9,4 +9,13 @@
       <class name="day50.SwagDemo"/>
     </classes>
   </test> <!-- SmokeTest -->
+  <test thread-count="5" name="RegressionTest">
+    <classes>
+      <class name="day50.LoginDemo"/>
+      <class name="day50.LoginDemo2"/>
+      <class name="day50.FirstTestNG"/>
+      <class name="day50.SwagDemo"/>
+    </classes>
+  </test> <!-- RegressionTest -->
+  
 </suite> <!-- SmokeSuite -->
