@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]">
-  <test thread-count="5" name="Test(failed)">
+  <test thread-count="5" name="Test_1(failed)">
     <classes>
-      <class name="day51.SwagDemoTest">
+      <class name="day51.AssertsDemo">
         <methods>
-          <include name="demo_2Test"/>
-          <include name="test2Test"/>
-          <include name="demoTest"/>
-          <include name="launchBrowserTest"/>
-          <include name="test1Test"/>
-          <include name="demo_3Test"/>
-          <include name="generateReportTest"/>
-          <include name="demo_4Test"/>
-          <include name="closeBrowserTest"/>
-          <include name="test3Test"/>
-          <include name="getDataTest"/>
+          <include name="testAssert"/>
+          <include name="testEqualFail"/>
+          <include name="afterTestAssert"/>
         </methods>
-      </class> <!-- day51.SwagDemoTest -->
+      </class> <!-- day51.AssertsDemo -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Test_1(failed) -->
 </suite> <!-- Failed suite [Suite] -->

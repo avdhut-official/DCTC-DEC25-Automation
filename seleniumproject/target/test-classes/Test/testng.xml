@@ -7,7 +7,6 @@
 			<include name="Smoke"></include>
 		</run>
 	</groups>
-   
     <classes>
       <class name="Test.SwagDemo"/>
     </classes>

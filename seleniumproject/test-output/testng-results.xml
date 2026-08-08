@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-08-01T23:40:05 IST" name="MultiSuite" finished-at="2026-08-01T23:40:05 IST" duration-ms="328">
+  <suite started-at="2026-08-08T10:57:00 IST" name="Suite_1" finished-at="2026-08-08T10:57:00 IST" duration-ms="86">
     <groups>
-      <group name="Smoke">
-        <method signature="SwagDemo.test1()[pri:0, instance:Test.SwagDemo@38425407]" name="test1" class="Test.SwagDemo"/>
-        <method signature="SwagDemo.test3()[pri:0, instance:Test.SwagDemo@38425407]" name="test3" class="Test.SwagDemo"/>
-        <method signature="SwagDemo2.test1()[pri:0, instance:Test.SwagDemo2@7bedc48a]" name="test1" class="Test.SwagDemo2"/>
-        <method signature="SwagDemo2.test2()[pri:0, instance:Test.SwagDemo2@7bedc48a]" name="test2" class="Test.SwagDemo2"/>
-      </group> <!-- Smoke -->
+      <group name="SmokeTest">
+        <method signature="TestDemo_52_4.login()[pri:0, instance:day52.TestDemo_52_4@4218d6a3]" name="login" class="day52.TestDemo_52_4"/>
+        <method signature="TestDemo_52_4.logout()[pri:0, instance:day52.TestDemo_52_4@4218d6a3]" name="logout" class="day52.TestDemo_52_4"/>
+      </group> <!-- SmokeTest -->
+      <group name="RegressionTest">
+        <method signature="TestDemo_52_4.login()[pri:0, instance:day52.TestDemo_52_4@4218d6a3]" name="login" class="day52.TestDemo_52_4"/>
+        <method signature="TestDemo_52_4.logout()[pri:0, instance:day52.TestDemo_52_4@4218d6a3]" name="logout" class="day52.TestDemo_52_4"/>
+        <method signature="TestDemo_52_4.payment()[pri:0, instance:day52.TestDemo_52_4@4218d6a3]" name="payment" class="day52.TestDemo_52_4"/>
+      </group> <!-- RegressionTest -->
     </groups>
-    <test started-at="2026-08-01T23:40:05 IST" name="MultiTest" finished-at="2026-08-01T23:40:05 IST" duration-ms="60">
-      <class name="Test.SwagDemo">
-        <test-method signature="test1()[pri:0, instance:Test.SwagDemo@38425407]" started-at="2026-08-01T23:40:05 IST" name="test1" finished-at="2026-08-01T23:40:05 IST" duration-ms="9" status="PASS">
+    <test started-at="2026-08-08T10:57:00 IST" name="Test_1" finished-at="2026-08-08T10:57:00 IST" duration-ms="86">
+      <class name="day52.TestDemo_52_4">
+        <test-method signature="login()[pri:0, instance:day52.TestDemo_52_4@4218d6a3]" started-at="2026-08-08T10:57:00 IST" name="login" finished-at="2026-08-08T10:57:00 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method signature="test3()[pri:0, instance:Test.SwagDemo@38425407]" started-at="2026-08-01T23:40:05 IST" name="test3" finished-at="2026-08-01T23:40:05 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:0, instance:day52.TestDemo_52_4@4218d6a3]" started-at="2026-08-08T10:57:00 IST" name="logout" finished-at="2026-08-08T10:57:00 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test3 -->
-      </class> <!-- Test.SwagDemo -->
-    </test> <!-- MultiTest -->
-    <test started-at="2026-08-01T23:40:05 IST" name="MultiTest_1" finished-at="2026-08-01T23:40:05 IST" duration-ms="7">
-      <class name="Test.SwagDemo2">
-        <test-method signature="test1()[pri:0, instance:Test.SwagDemo2@7bedc48a]" started-at="2026-08-01T23:40:05 IST" name="test1" finished-at="2026-08-01T23:40:05 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- logout -->
+        <test-method signature="payment()[pri:0, instance:day52.TestDemo_52_4@4218d6a3]" started-at="2026-08-08T10:57:00 IST" name="payment" finished-at="2026-08-08T10:57:00 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:0, instance:Test.SwagDemo2@7bedc48a]" started-at="2026-08-01T23:40:05 IST" name="test2" finished-at="2026-08-01T23:40:05 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test2 -->
-      </class> <!-- Test.SwagDemo2 -->
-    </test> <!-- MultiTest_1 -->
-  </suite> <!-- MultiSuite -->
+        </test-method> <!-- payment -->
+      </class> <!-- day52.TestDemo_52_4 -->
+    </test> <!-- Test_1 -->
+  </suite> <!-- Suite_1 -->
 </testng-results>
