@@ -8,13 +8,43 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="8">Suite_1</th></tr>
-<tr><td><a href="#t0">Test_1</a></td><td class="num">3</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">86</td><td>RegressionTest</td><td></td></tr>
+<tr><th colspan="8">Suite</th></tr>
+<tr><td><a href="#t0">LoginTest</a></td><td class="num">8</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">43,465</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite_1</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test_1 &#8212; passed</th></tr><tr class="passedeven"><td rowspan="3">day52.TestDemo_52_4</td><td><a href="#m0">login</a></td><td rowspan="1">1786166820834</td><td rowspan="1">12</td></tr><tr class="passedeven"><td><a href="#m1">logout</a></td><td rowspan="1">1786166820859</td><td rowspan="1">2</td></tr><tr class="passedeven"><td><a href="#m2">payment</a></td><td rowspan="1">1786166820865</td><td rowspan="1">2</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">LoginTest &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">day53.LoginDataProvider</td><td><a href="#m0">loginTest</a></td><td rowspan="1">1786858357453</td><td rowspan="1">1431</td></tr><tr><th colspan="4">LoginTest &#8212; passed</th></tr><tr class="passedeven"><td rowspan="3">day53.DataProviderDemo</td><td><a href="#m1">testData</a></td><td rowspan="3">1786858316192</td><td rowspan="3">13</td></tr><tr class="passedeven"><td><a href="#m2">testData</a></td></tr><tr class="passedeven"><td><a href="#m3">testData</a></td></tr><tr class="passedodd"><td rowspan="2">day53.LoginDataProvider</td><td><a href="#m4">loginTest</a></td><td rowspan="2">1786858342287</td><td rowspan="2">4373</td></tr><tr class="passedodd"><td><a href="#m5">loginTest</a></td></tr><tr class="passedeven"><td rowspan="3">day53.LoginTestDifferentClass</td><td><a href="#m6">loginTest</a></td><td rowspan="3">1786858327883</td><td rowspan="3">2588</td></tr><tr class="passedeven"><td><a href="#m7">loginTest</a></td></tr><tr class="passedeven"><td><a href="#m8">loginTest</a></td></tr></tbody>
 </table>
-<h2>Test_1</h2><h3 id="m0">day52.TestDemo_52_4#login</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">day52.TestDemo_52_4#logout</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">day52.TestDemo_52_4#payment</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>LoginTest</h2><h3 id="m0">day53.LoginDataProvider#loginTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>practice</td><td>WrongPassword</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (484, 686)
+  (Session info: chrome=151.0.7922.138)
+Build info: version: &apos;4.45.0&apos;, revision: &apos;cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.12&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2476ec5d934d1e46db472e4465810d89, clickElement {id=f.FE49BAFEA9272C16E01EF5B8866A6B20.d.F504717AF0EAA95927A9E7A477398A9C.e.11}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 151.0.7922.138, chrome: {chromedriverVersion: 151.0.7922.138 (41fa8244239..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51151}, goog:processID: 14632, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51151/devtoo..., se:cdpVersion: 151.0.7922.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2476ec5d934d1e46db472e4465810d89)] -&gt; xpath: //button[@type=&apos;submit&apos;]]
+Session ID: 2476ec5d934d1e46db472e4465810d89
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:575)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:225)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at day53.LoginDataProvider.loginTest(LoginDataProvider.java:39)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+... Removed 11 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">day53.DataProviderDemo#testData</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th></tr><tr class="param stripe"><td>Abhay</td><td>Pune</td><td>40</td><td>true</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">day53.DataProviderDemo#testData</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th></tr><tr class="param stripe"><td>Shrawani</td><td>Mumbai</td><td>35</td><td>false</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">day53.DataProviderDemo#testData</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th></tr><tr class="param stripe"><td>Sandeep</td><td>Delhi</td><td>30</td><td>true</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">day53.LoginDataProvider#loginTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>wrongUser</td><td>SuperSecretPassword!</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">day53.LoginDataProvider#loginTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>practice</td><td>SuperSecretPassword!</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">day53.LoginTestDifferentClass#loginTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>practice</td><td>SuperSecretPassword!</td><td>true</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">day53.LoginTestDifferentClass#loginTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>practice</td><td>WrongPassword</td><td>false</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">day53.LoginTestDifferentClass#loginTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>wrongUser</td><td>SuperSecretPassword!</td><td>false</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

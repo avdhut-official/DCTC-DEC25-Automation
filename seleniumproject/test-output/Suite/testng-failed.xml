@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]">
-  <test thread-count="5" name="Test_1(failed)">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="methods" name="LoginTest(failed)">
     <classes>
-      <class name="day51.AssertsDemo">
+      <class name="day53.LoginDataProvider">
         <methods>
-          <include name="testAssert"/>
-          <include name="testEqualFail"/>
-          <include name="afterTestAssert"/>
+          <include name="loginTest" invocation-numbers="2"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- day51.AssertsDemo -->
+      </class> <!-- day53.LoginDataProvider -->
     </classes>
-  </test> <!-- Test_1(failed) -->
+  </test> <!-- LoginTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
