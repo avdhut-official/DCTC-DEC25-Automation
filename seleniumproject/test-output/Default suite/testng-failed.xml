@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="day53.LoginTestDifferentClass">
+      <class name="day54.LoginDataProvider">
         <methods>
+          <include name="loginTest" invocation-numbers="0 1"/>
           <include name="setup"/>
-          <include name="loginTest"/>
         </methods>
-      </class> <!-- day53.LoginTestDifferentClass -->
+      </class> <!-- day54.LoginDataProvider -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
