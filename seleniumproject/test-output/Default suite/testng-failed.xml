@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="day54.LoginDataProvider">
+      <class name="day55.SwagDemo">
         <methods>
-          <include name="loginTest" invocation-numbers="0 1"/>
-          <include name="setup"/>
+          <include name="verifyHomePage"/>
         </methods>
-      </class> <!-- day54.LoginDataProvider -->
+      </class> <!-- day55.SwagDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

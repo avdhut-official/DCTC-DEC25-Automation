@@ -5,9 +5,16 @@
   	<listener class-name="day54.MyListener"></listener>
   </listeners>
 
-  <test name="ChromeTest">
+  <test name="Test">
   	<classes>
   		<class name="day54.LoginDataProvider"></class>
+  	</classes>
+  </test> <!-- CrossBrowserTest -->
+  
+  <test name="ChromeTest">
+  	<parameter name="browser" value="chrome"></parameter>
+  	<classes>
+  		<class name="day54.CrossBrowser"></class>
   	</classes>
   </test> <!-- CrossBrowserTest -->
   

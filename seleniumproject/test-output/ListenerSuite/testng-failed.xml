@@ -4,7 +4,7 @@
   <listeners>
     <listener class-name="day54.MyListener"/>
   </listeners>
-  <test thread-count="3" parallel="tests" name="ChromeTest(failed)">
+  <test thread-count="3" parallel="tests" name="Test(failed)">
     <classes>
       <class name="day54.LoginDataProvider">
         <methods>
@@ -13,5 +13,5 @@
         </methods>
       </class> <!-- day54.LoginDataProvider -->
     </classes>
-  </test> <!-- ChromeTest(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [ListenerSuite] -->

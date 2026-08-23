@@ -9,7 +9,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-@Listeners(ListenerForFailure.class)
+
 public class LoginDataProvider {
 	
 	WebDriver driver;
