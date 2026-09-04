@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MultiSuite">
+  <test thread-count="5" name="MultiTest">
+   <groups>
+		<run>
+			<include name="Smoke"></include>
+		</run>
+	</groups>
+    <classes>
+      <class name="Test.SwagDemo"/>
+    </classes>
+  </test> <!-- MultiTest -->
+  <test thread-count="5" name="MultiTest_1">
+		<groups>
+			<run>
+				<include name="Smoke"></include>
+			</run>
+		</groups>
+    <classes>
+      <class name="Test.SwagDemo2"/>
+    </classes>
+  </test>
+</suite> <!-- MultiSuite -->
