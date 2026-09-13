@@ -26,16 +26,18 @@ public class LoginPage extends BasePage {
 		type(password, passwordText);
 	}
 	
+	/*
 	public void clickLogin()
 	{
 		click(loginBtn);
-	}
+	}*/
 	
-	public void login(String usernameText, String passwordText)
+	public InventoryPage loginToApplication(String usernameText, String passwordText)
 	{
 		enterUserName(usernameText);
 		enterPassword(passwordText);
-		clickLogin();
+		click(loginBtn);
+		return new InventoryPage(driver);
 	}
 	
 }
