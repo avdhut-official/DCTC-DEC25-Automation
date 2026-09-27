@@ -11,14 +11,15 @@ import pages.CheckoutPage;
 import pages.InventoryPage;
 import pages.LoginPage;
 import pages.OrderConfirmationPage;
+import utils.ConfigReader;
 
-public class EndToEndTest extends BaseTest {
+public class EndToEndTestConfig extends BaseTestConfig {
 	
 	@Test
 	public void verifyCompletePurchaseFlow()
 	{
 		LoginPage loginPage = new LoginPage(driver);
-		InventoryPage inventoryPage = loginPage.loginToApplication("standard_user", "secret_sauce");
+		InventoryPage inventoryPage = loginPage.loginToApplication(ConfigReader.getProperty("username"),ConfigReader.getProperty("password"));
 		
 		Assert.assertTrue(inventoryPage.isInventoryPageDisplayed(),"Inventory page is not displayed");
 		

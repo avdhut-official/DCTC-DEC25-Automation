@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="day56.SwagDemo">
+      <class name="tests.EndToEndTestConfig">
         <methods>
-          <include name="dependencyCheck"/>
-          <include name="addInventory"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyCompletePurchaseFlow"/>
         </methods>
-      </class> <!-- day56.SwagDemo -->
+      </class> <!-- tests.EndToEndTestConfig -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
