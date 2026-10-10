@@ -1,0 +1,14 @@
+16:48:08 INFO  LoggingTest - Logging Configuration loaded
+16:48:08 WARN  LoggingTest - Warning Example
+16:48:08 ERROR LoggingTest - Error Example
+17:05:31 INFO  BaseTestConfig - ========Test Setup Started========
+17:05:32 INFO  BaseTestConfig - Selected browser : chrome
+17:05:37 INFO  BaseTestConfig - Browser Launched Successfully
+17:05:38 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:05:38 INFO  EndToEndTestConfig - Starting End to End purchase flow
+17:05:38 INFO  EndToEndTestConfig - Login Successful; inventory page verified
+17:05:38 INFO  EndToEndTestConfig - Sauce Labs Backpack is added to Cart
+17:05:40 INFO  EndToEndTestConfig - End to End purchase flow completed successfully
+17:05:45 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:05:45 INFO  BaseTestConfig - Browser Closed Successfully
+17:05:45 INFO  BaseTestConfig - ========Test Setup Completed========
