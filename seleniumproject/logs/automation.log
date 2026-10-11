@@ -12,3 +12,784 @@
 17:05:45 INFO  BaseTestConfig - Starting Browser Cleanup 
 17:05:45 INFO  BaseTestConfig - Browser Closed Successfully
 17:05:45 INFO  BaseTestConfig - ========Test Setup Completed========
+16:19:22 INFO  BaseTestConfig - ========Test Setup Started========
+16:19:22 INFO  BaseTestConfig - Selected browser : chrome
+16:19:25 INFO  BaseTestConfig - Browser Launched Successfully
+16:19:26 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+16:19:26 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:19:26 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+16:19:26 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+16:19:27 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+16:19:27 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+16:19:32 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:19:32 INFO  BaseTestConfig - Browser Closed Successfully
+16:19:32 INFO  BaseTestConfig - ========Test Setup Completed========
+16:19:32 INFO  BaseTestConfig - ========Test Setup Started========
+16:19:32 INFO  BaseTestConfig - Selected browser : chrome
+16:19:33 INFO  BaseTestConfig - Browser Launched Successfully
+16:19:34 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+16:19:34 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:19:34 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+16:19:34 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+16:19:34 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+16:19:35 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+16:19:40 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:19:40 INFO  BaseTestConfig - Browser Closed Successfully
+16:19:40 INFO  BaseTestConfig - ========Test Setup Completed========
+16:19:40 INFO  BaseTestConfig - ========Test Setup Started========
+16:19:40 INFO  BaseTestConfig - Selected browser : chrome
+16:19:41 INFO  BaseTestConfig - Browser Launched Successfully
+16:19:41 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+16:19:41 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:19:42 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+16:19:42 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+16:19:42 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+16:19:43 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+16:19:48 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:19:48 INFO  BaseTestConfig - Browser Closed Successfully
+16:19:48 INFO  BaseTestConfig - ========Test Setup Completed========
+16:25:11 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:25:12 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:25:12 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:29:34 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:29:34 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:29:34 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:30:41 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:30:41 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:30:41 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:31:25 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:31:25 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:31:25 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:35:10 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:35:15 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:35:15 INFO  BaseTestConfig - Browser Closed Successfully
+16:35:15 INFO  BaseTestConfig - ========Test Setup Completed========
+16:35:15 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:35:20 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:35:20 INFO  BaseTestConfig - Browser Closed Successfully
+16:35:20 INFO  BaseTestConfig - ========Test Setup Completed========
+16:35:20 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:35:25 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:35:25 INFO  BaseTestConfig - Browser Closed Successfully
+16:35:25 INFO  BaseTestConfig - ========Test Setup Completed========
+16:36:20 INFO  BaseTestConfig - ========Test Setup Started========
+16:36:20 INFO  BaseTestConfig - Selected browser : chrome
+16:36:22 INFO  BaseTestConfig - Browser Launched Successfully
+16:36:25 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+16:36:25 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:36:25 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+16:36:25 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+16:36:25 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+16:36:26 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+16:36:31 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:36:31 INFO  BaseTestConfig - Browser Closed Successfully
+16:36:31 INFO  BaseTestConfig - ========Test Setup Completed========
+16:36:31 INFO  BaseTestConfig - ========Test Setup Started========
+16:36:31 INFO  BaseTestConfig - Selected browser : chrome
+16:36:32 INFO  BaseTestConfig - Browser Launched Successfully
+16:36:32 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+16:36:32 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:36:33 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+16:36:33 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+16:36:33 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+16:36:33 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+16:36:38 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:36:39 INFO  BaseTestConfig - Browser Closed Successfully
+16:36:39 INFO  BaseTestConfig - ========Test Setup Completed========
+16:36:39 INFO  BaseTestConfig - ========Test Setup Started========
+16:36:39 INFO  BaseTestConfig - Selected browser : chrome
+16:36:39 INFO  BaseTestConfig - Browser Launched Successfully
+16:36:40 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+16:36:40 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:36:40 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+16:36:40 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+16:36:40 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+16:36:41 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+16:36:46 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:36:46 INFO  BaseTestConfig - Browser Closed Successfully
+16:36:46 INFO  BaseTestConfig - ========Test Setup Completed========
+16:40:01 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:40:06 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:40:06 INFO  BaseTestConfig - Browser Closed Successfully
+16:40:06 INFO  BaseTestConfig - ========Test Setup Completed========
+16:40:06 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:40:11 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:40:11 INFO  BaseTestConfig - Browser Closed Successfully
+16:40:11 INFO  BaseTestConfig - ========Test Setup Completed========
+16:40:11 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:40:16 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:40:16 INFO  BaseTestConfig - Browser Closed Successfully
+16:40:16 INFO  BaseTestConfig - ========Test Setup Completed========
+16:41:57 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:42:02 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:42:02 INFO  BaseTestConfig - Browser Closed Successfully
+16:42:02 INFO  BaseTestConfig - ========Test Setup Completed========
+16:42:02 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:42:07 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:42:07 INFO  BaseTestConfig - Browser Closed Successfully
+16:42:07 INFO  BaseTestConfig - ========Test Setup Completed========
+16:42:07 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:42:12 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:42:12 INFO  BaseTestConfig - Browser Closed Successfully
+16:42:12 INFO  BaseTestConfig - ========Test Setup Completed========
+16:45:04 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:45:09 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:45:09 INFO  BaseTestConfig - Browser Closed Successfully
+16:45:09 INFO  BaseTestConfig - ========Test Setup Completed========
+16:45:09 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:45:14 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:45:14 INFO  BaseTestConfig - Browser Closed Successfully
+16:45:14 INFO  BaseTestConfig - ========Test Setup Completed========
+16:45:14 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:45:19 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:45:19 INFO  BaseTestConfig - Browser Closed Successfully
+16:45:19 INFO  BaseTestConfig - ========Test Setup Completed========
+16:46:29 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:46:34 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:46:34 INFO  BaseTestConfig - Browser Closed Successfully
+16:46:34 INFO  BaseTestConfig - ========Test Setup Completed========
+16:46:34 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:46:39 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:46:39 INFO  BaseTestConfig - Browser Closed Successfully
+16:46:39 INFO  BaseTestConfig - ========Test Setup Completed========
+16:46:39 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:46:44 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:46:44 INFO  BaseTestConfig - Browser Closed Successfully
+16:46:44 INFO  BaseTestConfig - ========Test Setup Completed========
+16:48:32 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:48:37 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:48:37 INFO  BaseTestConfig - Browser Closed Successfully
+16:48:37 INFO  BaseTestConfig - ========Test Setup Completed========
+16:48:37 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:48:42 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:48:42 INFO  BaseTestConfig - Browser Closed Successfully
+16:48:42 INFO  BaseTestConfig - ========Test Setup Completed========
+16:48:42 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:48:47 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:48:47 INFO  BaseTestConfig - Browser Closed Successfully
+16:48:47 INFO  BaseTestConfig - ========Test Setup Completed========
+16:58:37 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+16:58:42 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:58:42 INFO  BaseTestConfig - Browser Closed Successfully
+16:58:42 INFO  BaseTestConfig - ========Test Setup Completed========
+16:58:42 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+16:58:47 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:58:47 INFO  BaseTestConfig - Browser Closed Successfully
+16:58:47 INFO  BaseTestConfig - ========Test Setup Completed========
+16:58:47 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+16:58:52 INFO  BaseTestConfig - Starting Browser Cleanup 
+16:58:52 INFO  BaseTestConfig - Browser Closed Successfully
+16:58:52 INFO  BaseTestConfig - ========Test Setup Completed========
+17:01:14 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:01:19 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:01:19 INFO  BaseTestConfig - Browser Closed Successfully
+17:01:19 INFO  BaseTestConfig - ========Test Setup Completed========
+17:01:19 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:01:24 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:01:24 INFO  BaseTestConfig - Browser Closed Successfully
+17:01:24 INFO  BaseTestConfig - ========Test Setup Completed========
+17:01:24 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:01:29 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:01:29 INFO  BaseTestConfig - Browser Closed Successfully
+17:01:29 INFO  BaseTestConfig - ========Test Setup Completed========
+17:03:54 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:03:54 INFO  BaseTestConfig - ========Test Setup Started========
+17:03:54 INFO  BaseTestConfig - Selected browser : edge
+17:03:57 INFO  BaseTestConfig - >>> Driver is null: false
+17:03:57 INFO  BaseTestConfig - Browser Launched Successfully
+17:03:58 INFO  BaseTestConfig - >>> Application navigation completed
+17:03:58 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:03:58 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:03:58 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:03:58 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:03:58 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:03:58 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:03:58 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:03:59 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+17:04:04 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:04:04 INFO  BaseTestConfig - Browser Closed Successfully
+17:04:04 INFO  BaseTestConfig - ========Test Setup Completed========
+17:04:04 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:04:04 INFO  BaseTestConfig - ========Test Setup Started========
+17:04:04 INFO  BaseTestConfig - Selected browser : edge
+17:04:05 INFO  BaseTestConfig - >>> Driver is null: false
+17:04:05 INFO  BaseTestConfig - Browser Launched Successfully
+17:04:05 INFO  BaseTestConfig - >>> Application navigation completed
+17:04:05 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:04:05 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:04:05 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:04:05 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:04:05 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:04:06 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:04:06 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:04:06 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+17:04:11 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:04:11 INFO  BaseTestConfig - Browser Closed Successfully
+17:04:11 INFO  BaseTestConfig - ========Test Setup Completed========
+17:04:11 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:04:11 INFO  BaseTestConfig - ========Test Setup Started========
+17:04:11 INFO  BaseTestConfig - Selected browser : edge
+17:04:12 INFO  BaseTestConfig - >>> Driver is null: false
+17:04:12 INFO  BaseTestConfig - Browser Launched Successfully
+17:04:13 INFO  BaseTestConfig - >>> Application navigation completed
+17:04:13 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:04:13 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:04:13 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:04:13 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:04:13 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:04:13 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:04:13 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:04:14 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+17:04:19 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:04:19 INFO  BaseTestConfig - Browser Closed Successfully
+17:04:19 INFO  BaseTestConfig - ========Test Setup Completed========
+17:04:31 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:04:31 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:04:36 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:04:36 INFO  BaseTestConfig - Browser Closed Successfully
+17:04:36 INFO  BaseTestConfig - ========Test Setup Completed========
+17:04:36 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:04:36 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:04:41 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:04:41 INFO  BaseTestConfig - Browser Closed Successfully
+17:04:41 INFO  BaseTestConfig - ========Test Setup Completed========
+17:04:41 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:04:41 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:04:46 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:04:46 INFO  BaseTestConfig - Browser Closed Successfully
+17:04:46 INFO  BaseTestConfig - ========Test Setup Completed========
+17:07:39 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:07:39 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:07:44 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:07:44 INFO  BaseTestConfig - Browser Closed Successfully
+17:07:44 INFO  BaseTestConfig - ========Test Setup Completed========
+17:07:44 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:07:44 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:07:49 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:07:49 INFO  BaseTestConfig - Browser Closed Successfully
+17:07:49 INFO  BaseTestConfig - ========Test Setup Completed========
+17:07:49 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:07:49 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:07:54 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:07:54 INFO  BaseTestConfig - Browser Closed Successfully
+17:07:54 INFO  BaseTestConfig - ========Test Setup Completed========
+17:10:02 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:10:02 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:10:07 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:10:07 INFO  BaseTestConfig - Browser Closed Successfully
+17:10:07 INFO  BaseTestConfig - ========Test Setup Completed========
+17:10:07 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:10:07 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:10:12 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:10:12 INFO  BaseTestConfig - Browser Closed Successfully
+17:10:12 INFO  BaseTestConfig - ========Test Setup Completed========
+17:10:12 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:10:12 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:10:17 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:10:17 INFO  BaseTestConfig - Browser Closed Successfully
+17:10:17 INFO  BaseTestConfig - ========Test Setup Completed========
+17:11:20 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:11:20 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:11:25 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:11:25 INFO  BaseTestConfig - Browser Closed Successfully
+17:11:25 INFO  BaseTestConfig - ========Test Setup Completed========
+17:11:25 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:11:25 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:11:30 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:11:30 INFO  BaseTestConfig - Browser Closed Successfully
+17:11:30 INFO  BaseTestConfig - ========Test Setup Completed========
+17:11:30 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:11:30 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:11:35 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:11:35 INFO  BaseTestConfig - Browser Closed Successfully
+17:11:35 INFO  BaseTestConfig - ========Test Setup Completed========
+17:12:57 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:12:57 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:13:02 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:13:02 INFO  BaseTestConfig - Browser Closed Successfully
+17:13:02 INFO  BaseTestConfig - ========Test Setup Completed========
+17:13:02 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:13:02 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:13:07 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:13:07 INFO  BaseTestConfig - Browser Closed Successfully
+17:13:07 INFO  BaseTestConfig - ========Test Setup Completed========
+17:13:07 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:13:07 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:13:12 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:13:12 INFO  BaseTestConfig - Browser Closed Successfully
+17:13:12 INFO  BaseTestConfig - ========Test Setup Completed========
+17:15:09 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:15:09 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:15:14 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:15:14 INFO  BaseTestConfig - Browser Closed Successfully
+17:15:14 INFO  BaseTestConfig - ========Test Setup Completed========
+17:15:14 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:15:14 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:15:19 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:15:19 INFO  BaseTestConfig - Browser Closed Successfully
+17:15:19 INFO  BaseTestConfig - ========Test Setup Completed========
+17:15:19 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:15:19 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:15:24 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:15:24 INFO  BaseTestConfig - Browser Closed Successfully
+17:15:24 INFO  BaseTestConfig - ========Test Setup Completed========
+17:15:44 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:15:44 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:15:49 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:15:49 INFO  BaseTestConfig - Browser Closed Successfully
+17:15:49 INFO  BaseTestConfig - ========Test Setup Completed========
+17:15:49 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:15:49 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:15:54 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:15:54 INFO  BaseTestConfig - Browser Closed Successfully
+17:15:54 INFO  BaseTestConfig - ========Test Setup Completed========
+17:15:54 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:15:54 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:15:59 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:15:59 INFO  BaseTestConfig - Browser Closed Successfully
+17:15:59 INFO  BaseTestConfig - ========Test Setup Completed========
+17:16:04 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:16:04 INFO  BaseTestConfig - ========Test Setup Started========
+17:16:04 INFO  BaseTestConfig - Selected browser : edge
+17:16:06 INFO  BaseTestConfig - >>> Driver is null: false
+17:16:06 INFO  BaseTestConfig - Browser Launched Successfully
+17:16:06 INFO  BaseTestConfig - >>> Application navigation completed
+17:16:06 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:16:06 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:16:06 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:16:06 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:16:06 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:16:07 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:16:07 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:16:07 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+17:16:12 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:16:12 INFO  BaseTestConfig - Browser Closed Successfully
+17:16:12 INFO  BaseTestConfig - ========Test Setup Completed========
+17:16:12 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:16:12 INFO  BaseTestConfig - ========Test Setup Started========
+17:16:12 INFO  BaseTestConfig - Selected browser : edge
+17:16:13 INFO  BaseTestConfig - >>> Driver is null: false
+17:16:13 INFO  BaseTestConfig - Browser Launched Successfully
+17:16:14 INFO  BaseTestConfig - >>> Application navigation completed
+17:16:14 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:16:14 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:16:14 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:16:14 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:16:14 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:16:14 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:16:14 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:16:15 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+17:16:20 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:16:20 INFO  BaseTestConfig - Browser Closed Successfully
+17:16:20 INFO  BaseTestConfig - ========Test Setup Completed========
+17:16:20 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:16:20 INFO  BaseTestConfig - ========Test Setup Started========
+17:16:20 INFO  BaseTestConfig - Selected browser : edge
+17:16:21 INFO  BaseTestConfig - >>> Driver is null: false
+17:16:21 INFO  BaseTestConfig - Browser Launched Successfully
+17:16:21 INFO  BaseTestConfig - >>> Application navigation completed
+17:16:21 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:16:21 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:16:21 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:16:21 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:16:21 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:16:21 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:16:21 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:16:22 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+17:16:27 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:16:27 INFO  BaseTestConfig - Browser Closed Successfully
+17:16:27 INFO  BaseTestConfig - ========Test Setup Completed========
+17:18:28 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:18:28 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:18:33 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:18:33 INFO  BaseTestConfig - Browser Closed Successfully
+17:18:33 INFO  BaseTestConfig - ========Test Setup Completed========
+17:18:33 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:18:33 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:18:38 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:18:38 INFO  BaseTestConfig - Browser Closed Successfully
+17:18:38 INFO  BaseTestConfig - ========Test Setup Completed========
+17:18:38 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:18:38 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:18:43 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:18:43 INFO  BaseTestConfig - Browser Closed Successfully
+17:18:43 INFO  BaseTestConfig - ========Test Setup Completed========
+17:20:35 INFO  LoggingTest - Logging Configuration loaded
+17:20:35 WARN  LoggingTest - Warning Example
+17:20:35 ERROR LoggingTest - Error Example
+17:21:40 INFO  LoggingTest - Logging Configuration loaded
+17:21:41 WARN  LoggingTest - Warning Example
+17:21:41 ERROR LoggingTest - Error Example
+17:23:30 INFO  LoggingTest - Logging Configuration loaded
+17:23:30 WARN  LoggingTest - Warning Example
+17:23:30 ERROR LoggingTest - Error Example
+17:25:52 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:25:52 INFO  BaseTestConfig - ========Test Setup Started========
+17:25:52 INFO  BaseTestConfig - Selected browser : chrome
+17:25:54 INFO  BaseTestConfig - >>> Driver is null: false
+17:25:57 INFO  BaseTestConfig - Browser Launched Successfully
+17:25:57 INFO  BaseTestConfig - >>> Application navigation completed
+17:25:57 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:25:57 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:25:57 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:25:57 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:25:57 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:25:57 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:25:57 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:25:58 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+17:26:03 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:26:03 INFO  BaseTestConfig - Browser Closed Successfully
+17:26:03 INFO  BaseTestConfig - ========Test Setup Completed========
+17:26:03 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:26:03 INFO  BaseTestConfig - ========Test Setup Started========
+17:26:03 INFO  BaseTestConfig - Selected browser : chrome
+17:26:04 INFO  BaseTestConfig - >>> Driver is null: false
+17:26:04 INFO  BaseTestConfig - Browser Launched Successfully
+17:26:04 INFO  BaseTestConfig - >>> Application navigation completed
+17:26:04 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:26:04 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:26:04 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:26:05 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:26:05 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:26:05 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:26:05 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:26:05 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+17:26:10 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:26:11 INFO  BaseTestConfig - Browser Closed Successfully
+17:26:11 INFO  BaseTestConfig - ========Test Setup Completed========
+17:26:11 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:26:11 INFO  BaseTestConfig - ========Test Setup Started========
+17:26:11 INFO  BaseTestConfig - Selected browser : chrome
+17:26:11 INFO  BaseTestConfig - >>> Driver is null: false
+17:26:11 INFO  BaseTestConfig - Browser Launched Successfully
+17:26:12 INFO  BaseTestConfig - >>> Application navigation completed
+17:26:12 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:26:12 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:26:12 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:26:12 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:26:12 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:26:12 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:26:12 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:26:13 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+17:26:18 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:26:18 INFO  BaseTestConfig - Browser Closed Successfully
+17:26:18 INFO  BaseTestConfig - ========Test Setup Completed========
+17:29:46 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:29:46 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:29:51 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:29:51 INFO  BaseTestConfig - Browser Closed Successfully
+17:29:51 INFO  BaseTestConfig - ========Test Setup Completed========
+17:29:51 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:29:51 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:29:56 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:29:56 INFO  BaseTestConfig - Browser Closed Successfully
+17:29:56 INFO  BaseTestConfig - ========Test Setup Completed========
+17:29:56 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:29:56 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:30:01 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:30:01 INFO  BaseTestConfig - Browser Closed Successfully
+17:30:01 INFO  BaseTestConfig - ========Test Setup Completed========
+17:33:53 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:33:53 INFO  BaseTestConfig - ========Test Setup Started========
+17:33:53 INFO  BaseTestConfig - Selected browser : chrome
+17:33:55 INFO  BaseTestConfig - >>> Driver is null: false
+17:33:55 INFO  BaseTestConfig - Browser Launched Successfully
+17:33:55 INFO  BaseTestConfig - >>> Application navigation completed
+17:33:55 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:33:55 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:33:55 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:33:55 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:33:55 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:33:55 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:33:56 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:33:56 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+17:34:01 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:34:01 INFO  BaseTestConfig - Browser Closed Successfully
+17:34:01 INFO  BaseTestConfig - ========Test Setup Completed========
+17:34:01 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:34:01 INFO  BaseTestConfig - ========Test Setup Started========
+17:34:01 INFO  BaseTestConfig - Selected browser : chrome
+17:34:02 INFO  BaseTestConfig - >>> Driver is null: false
+17:34:02 INFO  BaseTestConfig - Browser Launched Successfully
+17:34:02 INFO  BaseTestConfig - >>> Application navigation completed
+17:34:02 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:34:02 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:34:02 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:34:03 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:34:03 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:34:03 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:34:03 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:34:03 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+17:34:08 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:34:09 INFO  BaseTestConfig - Browser Closed Successfully
+17:34:09 INFO  BaseTestConfig - ========Test Setup Completed========
+17:34:09 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:34:09 INFO  BaseTestConfig - ========Test Setup Started========
+17:34:09 INFO  BaseTestConfig - Selected browser : chrome
+17:34:10 INFO  BaseTestConfig - >>> Driver is null: false
+17:34:10 INFO  BaseTestConfig - Browser Launched Successfully
+17:34:10 INFO  BaseTestConfig - >>> Application navigation completed
+17:34:10 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:34:10 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:34:10 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:34:10 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:34:10 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:34:10 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:34:10 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:34:11 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+17:34:16 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:34:16 INFO  BaseTestConfig - Browser Closed Successfully
+17:34:16 INFO  BaseTestConfig - ========Test Setup Completed========
+17:34:54 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:34:54 INFO  BaseTestConfig - ========Test Setup Started========
+17:34:54 INFO  BaseTestConfig - Selected browser : chrome
+17:34:55 INFO  BaseTestConfig - >>> Driver is null: false
+17:34:57 INFO  BaseTestConfig - Browser Launched Successfully
+17:34:58 INFO  BaseTestConfig - >>> Application navigation completed
+17:34:58 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:34:58 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:34:58 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:34:58 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:34:58 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:34:58 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:34:58 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:34:59 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+17:35:04 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:35:04 INFO  BaseTestConfig - Browser Closed Successfully
+17:35:04 INFO  BaseTestConfig - ========Test Setup Completed========
+17:35:04 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:35:04 INFO  BaseTestConfig - ========Test Setup Started========
+17:35:04 INFO  BaseTestConfig - Selected browser : chrome
+17:35:05 INFO  BaseTestConfig - >>> Driver is null: false
+17:35:05 INFO  BaseTestConfig - Browser Launched Successfully
+17:35:05 INFO  BaseTestConfig - >>> Application navigation completed
+17:35:05 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:35:05 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:35:05 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:35:05 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:35:05 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:35:06 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:35:11 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:35:11 INFO  BaseTestConfig - Browser Closed Successfully
+17:35:11 INFO  BaseTestConfig - ========Test Setup Completed========
+17:35:11 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:35:11 INFO  BaseTestConfig - ========Test Setup Started========
+17:35:11 INFO  BaseTestConfig - Selected browser : chrome
+17:35:12 INFO  BaseTestConfig - >>> Driver is null: false
+17:35:12 INFO  BaseTestConfig - Browser Launched Successfully
+17:35:12 INFO  BaseTestConfig - >>> Application navigation completed
+17:35:12 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:35:12 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:35:12 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:35:12 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:35:13 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:35:13 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:35:13 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:35:13 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+17:35:18 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:35:19 INFO  BaseTestConfig - Browser Closed Successfully
+17:35:19 INFO  BaseTestConfig - ========Test Setup Completed========
+17:37:10 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:37:10 INFO  BaseTestConfig - ========Test Setup Started========
+17:37:11 INFO  BaseTestConfig - Selected browser : chrome
+17:37:12 INFO  BaseTestConfig - >>> Driver is null: false
+17:37:12 INFO  BaseTestConfig - Browser Launched Successfully
+17:37:12 INFO  BaseTestConfig - >>> Application navigation completed
+17:37:12 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:37:12 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:37:12 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:37:12 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:37:12 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:37:13 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:37:13 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:37:13 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+17:37:18 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:37:18 INFO  BaseTestConfig - Browser Closed Successfully
+17:37:18 INFO  BaseTestConfig - ========Test Setup Completed========
+17:37:18 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:37:18 INFO  BaseTestConfig - ========Test Setup Started========
+17:37:18 INFO  BaseTestConfig - Selected browser : chrome
+17:37:19 INFO  BaseTestConfig - >>> Driver is null: false
+17:37:19 INFO  BaseTestConfig - Browser Launched Successfully
+17:37:19 INFO  BaseTestConfig - >>> Application navigation completed
+17:37:19 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:37:19 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:37:19 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:37:20 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:37:20 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:37:20 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:37:20 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:37:21 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+17:37:26 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:37:26 INFO  BaseTestConfig - Browser Closed Successfully
+17:37:26 INFO  BaseTestConfig - ========Test Setup Completed========
+17:37:26 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:37:26 INFO  BaseTestConfig - ========Test Setup Started========
+17:37:26 INFO  BaseTestConfig - Selected browser : chrome
+17:37:27 INFO  BaseTestConfig - >>> Driver is null: false
+17:37:27 INFO  BaseTestConfig - Browser Launched Successfully
+17:37:27 INFO  BaseTestConfig - >>> Application navigation completed
+17:37:27 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:37:27 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:37:27 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:37:27 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:37:27 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:37:27 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:37:28 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:37:28 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+17:37:33 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:37:33 INFO  BaseTestConfig - Browser Closed Successfully
+17:37:33 INFO  BaseTestConfig - ========Test Setup Completed========
+17:38:22 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:38:22 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:38:22 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:38:22 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:38:22 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:38:22 INFO  EndToEndTestConfig_DataProvider - Test driver is null: true
+17:41:29 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:41:29 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:41:29 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:43:09 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:43:09 INFO  BaseTestConfig - ========Test Setup Started========
+17:43:09 INFO  BaseTestConfig - Selected browser : chrome
+17:43:10 INFO  BaseTestConfig - >>> Driver is null: false
+17:43:10 INFO  BaseTestConfig - Browser Launched Successfully
+17:43:10 INFO  BaseTestConfig - >>> Application navigation completed
+17:43:10 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:43:10 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:43:11 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:43:11 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:43:11 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:43:11 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:43:11 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+17:43:16 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:43:17 INFO  BaseTestConfig - Browser Closed Successfully
+17:43:17 INFO  BaseTestConfig - ========Test Setup Completed========
+17:43:17 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:43:17 INFO  BaseTestConfig - ========Test Setup Started========
+17:43:17 INFO  BaseTestConfig - Selected browser : chrome
+17:43:17 INFO  BaseTestConfig - >>> Driver is null: false
+17:43:17 INFO  BaseTestConfig - Browser Launched Successfully
+17:43:18 INFO  BaseTestConfig - >>> Application navigation completed
+17:43:18 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:43:18 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:43:18 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:43:18 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:43:18 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:43:19 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:43:19 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+17:43:24 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:43:24 INFO  BaseTestConfig - Browser Closed Successfully
+17:43:24 INFO  BaseTestConfig - ========Test Setup Completed========
+17:43:24 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:43:24 INFO  BaseTestConfig - ========Test Setup Started========
+17:43:24 INFO  BaseTestConfig - Selected browser : chrome
+17:43:25 INFO  BaseTestConfig - >>> Driver is null: false
+17:43:25 INFO  BaseTestConfig - Browser Launched Successfully
+17:43:26 INFO  BaseTestConfig - >>> Application navigation completed
+17:43:26 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:43:26 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:43:26 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:43:26 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:43:26 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:43:26 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:43:27 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+17:43:32 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:43:32 INFO  BaseTestConfig - Browser Closed Successfully
+17:43:32 INFO  BaseTestConfig - ========Test Setup Completed========
+17:44:50 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:44:50 INFO  BaseTestConfig - ========Test Setup Started========
+17:44:50 INFO  BaseTestConfig - Selected browser : chrome
+17:44:51 INFO  BaseTestConfig - >>> Driver is null: false
+17:44:51 INFO  BaseTestConfig - Browser Launched Successfully
+17:44:52 INFO  BaseTestConfig - >>> Application navigation completed
+17:44:52 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:44:52 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+17:44:52 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:44:52 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:44:52 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:44:53 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:44:53 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+17:44:58 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:44:58 INFO  BaseTestConfig - Browser Closed Successfully
+17:44:58 INFO  BaseTestConfig - ========Test Setup Completed========
+17:44:58 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:44:58 INFO  BaseTestConfig - ========Test Setup Started========
+17:44:58 INFO  BaseTestConfig - Selected browser : chrome
+17:44:59 INFO  BaseTestConfig - >>> Driver is null: false
+17:44:59 INFO  BaseTestConfig - Browser Launched Successfully
+17:44:59 INFO  BaseTestConfig - >>> Application navigation completed
+17:44:59 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:44:59 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+17:45:00 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:45:00 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:45:00 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:45:00 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:45:01 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+17:45:06 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:45:06 INFO  BaseTestConfig - Browser Closed Successfully
+17:45:06 INFO  BaseTestConfig - ========Test Setup Completed========
+17:45:06 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+17:45:06 INFO  BaseTestConfig - ========Test Setup Started========
+17:45:06 INFO  BaseTestConfig - Selected browser : chrome
+17:45:07 INFO  BaseTestConfig - >>> Driver is null: false
+17:45:07 INFO  BaseTestConfig - Browser Launched Successfully
+17:45:07 INFO  BaseTestConfig - >>> Application navigation completed
+17:45:07 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+17:45:07 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+17:45:07 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+17:45:08 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+17:45:08 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+17:45:08 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+17:45:08 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+17:45:13 INFO  BaseTestConfig - Starting Browser Cleanup 
+17:45:13 INFO  BaseTestConfig - Browser Closed Successfully
+17:45:13 INFO  BaseTestConfig - ========Test Setup Completed========
+18:18:03 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+18:18:03 INFO  BaseTestConfig - ========Test Setup Started========
+18:18:03 INFO  BaseTestConfig - Selected browser : chrome
+18:18:05 INFO  BaseTestConfig - >>> Driver is null: false
+18:18:05 INFO  BaseTestConfig - Browser Launched Successfully
+18:18:05 INFO  BaseTestConfig - >>> Application navigation completed
+18:18:05 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+18:18:05 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Vinay Tyagi
+18:18:06 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+18:18:06 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+18:18:06 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+18:18:06 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+18:18:06 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Vinay Tyagi
+18:18:11 INFO  BaseTestConfig - Starting Browser Cleanup 
+18:18:12 INFO  BaseTestConfig - Browser Closed Successfully
+18:18:12 INFO  BaseTestConfig - ========Test Setup Completed========
+18:18:12 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+18:18:12 INFO  BaseTestConfig - ========Test Setup Started========
+18:18:12 INFO  BaseTestConfig - Selected browser : chrome
+18:18:13 INFO  BaseTestConfig - >>> Driver is null: false
+18:18:13 INFO  BaseTestConfig - Browser Launched Successfully
+18:18:13 INFO  BaseTestConfig - >>> Application navigation completed
+18:18:13 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+18:18:13 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Rahul Sharma
+18:18:13 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+18:18:14 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+18:18:14 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+18:18:14 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+18:18:14 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Rahul Sharma
+18:18:19 INFO  BaseTestConfig - Starting Browser Cleanup 
+18:18:20 INFO  BaseTestConfig - Browser Closed Successfully
+18:18:20 INFO  BaseTestConfig - ========Test Setup Completed========
+18:18:20 INFO  BaseTestConfig - >>> BaseTestConfig.setup() STARTED
+18:18:20 INFO  BaseTestConfig - ========Test Setup Started========
+18:18:20 INFO  BaseTestConfig - Selected browser : chrome
+18:18:20 INFO  BaseTestConfig - >>> Driver is null: false
+18:18:20 INFO  BaseTestConfig - Browser Launched Successfully
+18:18:21 INFO  BaseTestConfig - >>> Application navigation completed
+18:18:21 INFO  BaseTestConfig - Application Opened : https://www.saucedemo.com/
+18:18:21 INFO  EndToEndTestConfig_DataProvider - Starting purchase flow for : Priya Patil
+18:18:21 INFO  EndToEndTestConfig_DataProvider - Test driver is null: false
+18:18:21 INFO  EndToEndTestConfig_DataProvider - Login Successful; inventory page verified
+18:18:21 INFO  EndToEndTestConfig_DataProvider - Sauce Labs Backpack is added to Cart
+18:18:22 INFO  EndToEndTestConfig_DataProvider - Product verified in cart
+18:18:22 INFO  EndToEndTestConfig_DataProvider - Purchase flow successfully Completed for : Priya Patil
+18:18:27 INFO  BaseTestConfig - Starting Browser Cleanup 
+18:18:27 INFO  BaseTestConfig - Browser Closed Successfully
+18:18:27 INFO  BaseTestConfig - ========Test Setup Completed========

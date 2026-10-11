@@ -1,0 +1,9 @@
+base\BasePage.class
+pages\InventoryPage.class
+pages\OrderConfirmationPage.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\CheckoutPage.class
+pages\CheckoutOverviewPage.class
+utils\ConfigReader.class
+utils\LoggerUtil.class

@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+import org.apache.logging.log4j.Logger;
 public class BasePage {
 	
 	
@@ -17,7 +17,8 @@ public class BasePage {
 	public BasePage(WebDriver driver)
 	{
 		this.driver = driver;
-		wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		
 	}
 	
 	protected WebElement findElement(By locator)

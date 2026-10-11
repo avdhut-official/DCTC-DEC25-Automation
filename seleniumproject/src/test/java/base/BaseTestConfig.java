@@ -24,9 +24,12 @@ public class BaseTestConfig {
 	protected WebDriver driver;
 	protected ChromeOptions options;
 	private static final Logger logger = LoggerUtil.getLogger(BaseTestConfig.class);
-	@BeforeMethod
+	
+	@BeforeMethod(alwaysRun = true)
 	public void setup()
 	{
+		System.out.println("### BASE SETUP METHOD STARTED ###");
+		logger.info(">>> BaseTestConfig.setup() STARTED");
 		String browser = ConfigReader.getProperty("browser");
 		logger.info("========Test Setup Started========");
 		logger.info("Selected browser : {}",browser);
@@ -37,6 +40,7 @@ public class BaseTestConfig {
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("--incognito");
 			driver = new ChromeDriver(options);
+			
 		}
 		else if(browser.equalsIgnoreCase("edge"))
 		{
@@ -53,6 +57,7 @@ public class BaseTestConfig {
 			throw new IllegalArgumentException("Invalid Browser: "+browser);
 		}
 		
+		logger.info(">>> Driver is null: {}", driver == null);
 		logger.info("Browser Launched Successfully");
 		
 		driver.manage().window().maximize();
@@ -60,21 +65,25 @@ public class BaseTestConfig {
 		String url = ConfigReader.getProperty("url");
 		
 		driver.get(url);
-		
+		logger.info(">>> Application navigation completed");
 		logger.info("Application Opened : {}",url);
 	}
 	
-	@AfterMethod
+	@AfterMethod(alwaysRun = true)
 	public void tearDown() throws InterruptedException
 	{
 		Thread.sleep(5000);
 		logger.info("Starting Browser Cleanup ");
-		driver.quit();
+		
+		if(driver!=null)
+		{
+			driver.quit();
+			driver = null;
+		}
 		
 		logger.info("Browser Closed Successfully");
 		
 		logger.info("========Test Setup Completed========");
 	}
 	
-
 }

@@ -4,7 +4,6 @@ import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import base.BaseTest;
 import base.BaseTestConfig;
 import pages.CartPage;
 import pages.CheckoutOverviewPage;
